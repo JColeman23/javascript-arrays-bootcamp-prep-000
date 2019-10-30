@@ -1,2 +1,2 @@
 var choclateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
-var cities = 
+var cities = ["New York", "San Francisco"]
